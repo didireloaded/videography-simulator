@@ -1,0 +1,19 @@
+{
+  "name": "FrameLab — On-Set Field Notebook",
+  "short_name": "FrameLab",
+  "description": "A pocket videography and photography field notebook: exposure, frame rate, depth of field, shot sizes, camera movement, composition and more.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f2f7",
+  "theme_color": "#f2f2f7",
+  "categories": ["productivity", "education", "utilities"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# Next.js output
+/.next/
+/out/
+/build/
+*.tsbuildinfo
+
+# local environment and credentials
+.env*
+!.env.example
+
+# deployment tooling
+/.vercel
+
+# local operating system files
+.DS_Store
